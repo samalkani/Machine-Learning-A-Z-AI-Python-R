@@ -17,250 +17,257 @@ storage for the photos folder to construct the CNN model were too large to be in
 
 ## 1.	Part 1: Data Preprocessing
 
-### a)	Data Preprocessing in Python	
+ ### a)	Data Preprocessing in Python	
 
-### b)	Data Preprocessing in R	
+ ### b)	Data Preprocessing in R	
 
 ## 2.	Part 2: Regression	
 
-### a)	Simple Linear Regression
+ ### a)	Simple Linear Regression
 	
-#### i)	Simple Linear Regression in R
+  #### i)	Simple Linear Regression in R
 
-#### ii) Simple Linear Regression in Python
+  #### ii) Simple Linear Regression in Python
 
-### b)	Multiple Linear Regression
+ ### b)	Multiple Linear Regression
 
-#### i)	Multiple Linear Regression in R
+  #### i)	Multiple Linear Regression in R
 
-#### ii) Multiple Linear Regression in Python
+  #### ii) Multiple Linear Regression in Python
 
-### c) Polynomial Regression	
+ ### c) Polynomial Regression	
 
-#### i)	Polynomial Linear Regression in R
+  #### i)	Polynomial Linear Regression in R
 
-#### ii) Polynomial Linear Regression in Python
+  #### ii) Polynomial Linear Regression in Python
 
-### d) Support Vector Regression (SVR)
+ ### d) Support Vector Regression (SVR)
 
-#### i) Support Vector Regression (SVR) in Python
+  #### i) Support Vector Regression (SVR) in Python
 
-#### ii) Support Vector Regression (SVR) in R
+  #### ii) Support Vector Regression (SVR) in R
 
-### e) Decision Tree Regression
+ ### e) Decision Tree Regression
 
-#### i) Decision Tree Regression in Python
+  #### i) Decision Tree Regression in Python
 
-#### ii) Decision Tree Regression in R
+  #### ii) Decision Tree Regression in R
 
-### f) Random Forrest Regression
+ ### f) Random Forrest Regression
 
-#### i) Random Forrest Regression in Python
+  #### i) Random Forrest Regression in Python
 
-#### ii) Random Forrest Regression in R
+  #### ii) Random Forrest Regression in R
 
-### g) Regression Model Selection 
+ ### g) Regression Model Selection 
 
-#### i) Regression Model Selection in Python
+  #### i) Regression Model Selection in Python
 
-#### ii) Regression Model Selection in R
+  #### ii) Regression Model Selection in R
 
 ## 3.	Part 3: Classification
 
-### a) Logistic Regression
+ ### a) Logistic Regression
 
-#### i) Logistic Regression in Python
+  #### i) Logistic Regression in Python
 
-#### ii) Logistic Regression in R
+  #### ii) Logistic Regression in R
 
-### b) K-Nearest Neighbours (K-NN)
+ ### b) K-Nearest Neighbours (K-NN)
 
-#### i) K-Nearest Neighbours (K-NN) in Python
+  #### i) K-Nearest Neighbours (K-NN) in Python
 
-#### ii) K-Nearest Neighbours (K-NN) in R
+  #### ii) K-Nearest Neighbours (K-NN) in R
 
-### c) Support Vector Machine (SVM)
+ ### c) Support Vector Machine (SVM)
 
-#### i) Support Vector Machine (SVM) in Python
+  #### i) Support Vector Machine (SVM) in Python
 
-#### ii) Support Vector Machine (SVM) in R
+  #### ii) Support Vector Machine (SVM) in R
 
-### d) Kernel SVM
+ ### d) Kernel SVM
 
-#### i) Kernel SVM in Python
+  #### i) Kernel SVM in Python
 
-#### ii) Kernel SVM in R
+  #### ii) Kernel SVM in R
 
-### e) Naïve Bayes
+ ### e) Naïve Bayes
 
-#### i) Naive Bayes in Python
+  #### i) Naive Bayes in Python
 
-#### ii) Naive Bayes in R
+  #### ii) Naive Bayes in R
 
-### f) Decision Tree Classification
+ ### f) Decision Tree Classification
 
-#### i) Decision Tree Classification in Python
+  #### i) Decision Tree Classification in Python
 
-#### ii) Decision Tree Classification in R 
+  #### ii) Decision Tree Classification in R 
 
-### g) Random Forest Classification
+ ### g) Random Forest Classification
 
-#### i) Random Forest Classification in Python
+  #### i) Random Forest Classification in Python
 
-#### ii) Random Forest Classification in R
+  #### ii) Random Forest Classification in R
 
-### h) Classification Model Selection in Python
+ ### h) Classification Model Selection in Python
 
 ## 4. Part 4: Clustering
 
-### a)	K-Means Clustering
+ ### a)	K-Means Clustering
 
-#### i) K-Means Clustering in Python
+  #### i) K-Means Clustering in Python
 
-#### ii) K-Means Clustering in R
+  #### ii) K-Means Clustering in R
 
-### b) Hierarchical Clustering
+ ### b) Hierarchical Clustering
 
-#### i) Hierarchical Clustering in Python
+  #### i) Hierarchical Clustering in Python
 
-#### ii) Hierarchical Clustering in R
+  #### ii) Hierarchical Clustering in R
 
 ## 5. Part 5: Association Rule Learning
 
-### a) Apriori
+ ### a) Apriori
 
-#### i) Apriori in Python
+  #### i) Apriori in Python
 
-#### ii) Apriori in R 
+  #### ii) Apriori in R 
 
-### b) Eclat
+ ### b) Eclat
 
-#### i) Eclat in Python
+  #### i) Eclat in Python
 
-#### ii) Eclat in R
+  #### ii) Eclat in R
 
 ## 6. Part 6: Reinforcement Learning
 
-### a) Upper Confidence Bound (UCB)
+ ### a) Upper Confidence Bound (UCB)
 
-#### i) Upper Confidence Bound (UCB) in Python
+  #### i) Upper Confidence Bound (UCB) in Python
 
-#### ii) Upper Confidence Bound (UCB) in R
+  #### ii) Upper Confidence Bound (UCB) in R
 
-### b) Thompson Sampling
+ ### b) Thompson Sampling
 
-#### i) Thompson Sampling in Python
+  #### i) Thompson Sampling in Python
 
-#### ii) Thompson Sampling in R
+  #### ii) Thompson Sampling in R
 
 ## 7. Part 7: Natural Language Processing (NLP)
 
-### a) Natural Language Processing (NLP)
+ ### a) Natural Language Processing (NLP)
 
-#### i) Natural Language Processing (NLP) in Python
+  #### i) Natural Language Processing (NLP) in Python
 
-#### ii) Natural Language Processing (NLP) in Python
+  #### ii) Natural Language Processing (NLP) in R
 
 ## 8. Part 8: Deep Learning
 
-### a) Artificial Neural Network (ANN)
+ ### a) Artificial Neural Network (ANN)
 
-#### i) Artificial Neural Network (ANN) in Python
+  #### i) Artificial Neural Network (ANN) in Python
 
-#### ii) Artificial Neural Network (ANN) in R
+  #### ii) Artificial Neural Network (ANN) in R
 
-### b) Convolutional Neural Networks (CNN)
+ ### b) Convolutional Neural Networks (CNN)
 
-#### i) Convolutional Neural Networks (CNN) in Python
+  #### i) Convolutional Neural Networks (CNN) in Python
 
-#### ii) Convolutional Neural Networks (CNN) not available in R  
+  #### ii) Convolutional Neural Networks (CNN) not available in R  
 
 ## 9. Part 9: Dimensionality Reduction
 
-### a) Principal Component Analysis (PCA)
+ ### a) Principal Component Analysis (PCA)
 
-#### i) Principal Component Analysis (PCA) in Python
+  #### i) Principal Component Analysis (PCA) in Python
 
-#### ii) Principal Component Analysis (PCA) in R 
+  #### ii) Principal Component Analysis (PCA) in R 
 
-### b) Linear Discriminant Analysis (LDA)
+ ### b) Linear Discriminant Analysis (LDA)
 
-#### i) Linear Discriminant Analysis (LDA) in Python
+  #### i) Linear Discriminant Analysis (LDA) in Python
 
-#### ii) Linear Discriminant Analysis (LDA) in R
+  #### ii) Linear Discriminant Analysis (LDA) in R
 
-### c) Kernel PCA
+ ### c) Kernel PCA
 
-#### i) Kernel PCA in Python
+  #### i) Kernel PCA in Python
 
-#### ii) Kernel PCA in R
-
+  #### ii) Kernel PCA in R
 
 ## 10. Part 10: Model Selection & Boosting	1658
 
-### a) Model Selection	- K-Fold Cross Validation
+ ### a) Model Selection	- K-Fold Cross Validation
 
-#### i) Model Selection	- K-Fold Cross Validation in Python
+  #### i) Model Selection	- K-Fold Cross Validation in Python
 
-#### ii) Model Selection	- K-Fold Cross Validation in R
+  #### ii) Model Selection	- K-Fold Cross Validation in R
 
-### b) Model Selection - Grid Search
+ ### b) Model Selection - Grid Search
 
-#### i) Model Selection - Grid Search in Python
+  #### i) Model Selection - Grid Search in Python
 
-#### ii) Model Selection - Grid Search in R
+  #### ii) Model Selection - Grid Search in R
 
-### c) Boosting - XGBoost
+ ### c) Boosting - XGBoost
 
-#### i) Boosting - XGBoost in Python
+  #### i) Boosting - XGBoost in Python
 
-#### ii) Boosting - XGBoost in R
+  #### ii) Boosting - XGBoost in R
 
-## 11. Part 11: Data Preprocessing Machine Learning Data sets
+## 11. Part 11: Data Preprocessing Machine Learning Data sets in Python
+
+ ### a) Iris Data + Codes
+ 
+ ### b) Pima Indians Diabetes Data + Codes
+ 
+ ### c) Titanic Data + Codes
+ 
+ ### d) Wine Quality Data + Codes
 
 ## 12. Part 12: Machine Learning - Model Selection
 
-### a) Model Selection - Classification in Python
+ ### a) Model Selection - Classification in Python
 
-#### i) Decision Tree Classification
+  #### i) Decision Tree Classification
 
-#### ii) K-Nearest Neighbours (K-NN)
+  #### ii) K-Nearest Neighbours (K-NN)
 
-#### iii) Kernel Support Vector Machines (K-SVM)
+  #### iii) Kernel Support Vector Machines (K-SVM)
 
-#### iv) Logistic Regression
+  #### iv) Logistic Regression
 
-#### v) Naive Bayes
+  #### v) Naive Bayes
 
-#### vi) Random Forest Classification
+  #### vi) Random Forest Classification
 
-#### vii) Support Vector Machine (Linear) (SVM)
+  #### vii) Support Vector Machine (Linear) (SVM)
 
-### b) Model Selection - Regression in Python
+ ### b) Model Selection - Regression in Python
 
-#### i) Decision Tree Regression
+  #### i) Decision Tree Regression
 
-#### ii) Multiple Linear Regression
+  #### ii) Multiple Linear Regression
 
-#### iii) Polynomial Regression
+  #### iii) Polynomial Regression
 
-#### iv) Random Forest Regression
+  #### iv) Random Forest Regression
 
-#### v) Support Vector Regression
+  #### v) Support Vector Regression
 
 ## 13. Part 13: Logistic Regression Practical Case Study - Breast Cancer
 
-### a) Logistic Regression Practical Case Study - Breast Cancer in Python
+ ### a) Logistic Regression Practical Case Study - Breast Cancer in Python
 
-### b) Logistic Regression Practical Case Study - Breast Cancer in R 
+ ### b) Logistic Regression Practical Case Study - Breast Cancer in R 
 
 ## 14. Part 14: Building an Artificial Neural Network (ANN) Regression Model
 
-### a) Building an Artificial Neural Network (ANN) Regression Model in Python
+ ### a) Building an Artificial Neural Network (ANN) Regression Model in Python
 
-### b) Building an Artificial Neural Network (ANN) Regression Model in R
+ ### b) Building an Artificial Neural Network (ANN) Regression Model in R
 
 ## 15. Part 15: CatBoost
 
-### a) CatBoost in Python
+ ### a) CatBoost in Python
 
