@@ -9,8 +9,7 @@ the different section folders below
 2. The R code in R files and R-markdown format and the datasets are contained in the R folders within 
 the different section folders below
 
-3. The html files are contained in the R folders under each section and they can be downloaded and the 
-output from the corresponding R programs can be viewed in a web browser
+3. The html files for R programs are contained in a separate repository so you can look at the R source code and the output it generates to give a comparison to the Jupyter notebook output you can see in this repository the link to that repository is given here: https://github.com/samalkani/Machine-Learning-A-Z-AI-R-HTML-. The R programs and their output in html format can be viewed in a web browser after downloading the html file from GitHub.
 
 4. The datasets for the code are under the individual folders for R and Python, except for CNN because the 
 storage for the photos folder to construct the CNN model were too large to be included on GitHub 
