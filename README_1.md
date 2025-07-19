@@ -1,4 +1,5 @@
-# Machine Learning A-Z AI-Python & R https://github.com/samalkani/Machine-Learning-A-Z-AI-Python-R
+# Machine Learning A-Z AI-Python & R 
+https://github.com/samalkani/Machine-Learning-A-Z-AI-Python-R
 
 Machine and deep learning Algorithms in Python (ipynb, py), R, R-markdown, html format. 
 
